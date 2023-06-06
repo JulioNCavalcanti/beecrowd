@@ -24,6 +24,5 @@ public class Beecrowd1002 {
         System.out.println("A=" + String.format("%.4f", area));
 
         sc.close();
-
     }
 }
