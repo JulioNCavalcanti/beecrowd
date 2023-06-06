@@ -20,4 +20,4 @@ public class Beecrowd1000 {
 
         sc.close();
     }
- }
+}
